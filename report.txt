@@ -1,0 +1,2 @@
+topper of class is <function toppers at 0x00000230DA103A00>
+average marks is 63.333333333333336
